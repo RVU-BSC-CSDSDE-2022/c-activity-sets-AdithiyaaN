@@ -99,7 +99,7 @@ void output(int a, int b, int c, int largest);
 
 ```
 1
-1
+15
 0
 ```
 
