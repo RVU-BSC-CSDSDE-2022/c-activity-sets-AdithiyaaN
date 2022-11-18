@@ -13,7 +13,7 @@ main()
 void add(int a, int b, int *so)
 {
 *so = a + b; 
-  }
+}
 int input()
 {
   int x;
